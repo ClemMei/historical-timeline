@@ -10,17 +10,23 @@ Each event links to its corresponding Wikipedia article for easy exploration.
 
 ---
 
+## Lien vers les frises / link to timelines
+
+🇫🇷 [French version](https://clemmei.github.io/historical-timeline/exports/frise-chronologique_fr.html)
+🇬🇧 [English Version](https://clemmei.github.io/historical-timeline/exports/historical-timeline_en.html)
+
+---
 ## 🗂 Contenu / Contents
 
-- `timeline_en_fr.drawio` : version française modifiable
-- `exports/` : rendus en HTML
+- `timeline.drawio` : fichier draw.io | draw.io file  
+- `exports/` : rendus en HTML | HTML webpage
 
 ---
 
 ## 🛠 Utilisation / How to Use
 
 1. Ouvrir les fichiers `.drawio` avec [draw.io](https://draw.io/) (aussi appelé diagrams.net)
-2. Modifier ou enrichir la frise
+2. Modifier ou enrichir la frise en selectionnant le calque adéquat
 3. Exporter (via **File > Export As**) en HTML
 4. Chaque bulle inclu un lien Wikipédia via `Right click > Edit Link`
 
