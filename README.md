@@ -44,6 +44,7 @@ Contribuez via une pull request en respectant la cohérence visuelle et chronolo
 Contribute via a pull request while respecting the visual and chronological consistency of the project, but keep in mind that:
 	•	Additions will be made subjectively (I’ll try to explain my choices)
 	•	This is a side project done on my free time (= possible delays)
+
 ---
 
 ## 📄 Licence / License
